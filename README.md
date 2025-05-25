@@ -55,4 +55,4 @@ https://drive.google.com/file/d/1w7cxOh2rOObFLYW458nMn6kcTFZYKGIK/view?usp=shari
 ## Contact
 
 - **Name**: Amber Goswami
-- **Email**: ambergoswami9@gmil.com
+- **Email**: ambergoswami9@gmail.com
