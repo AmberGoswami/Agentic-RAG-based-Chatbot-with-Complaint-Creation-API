@@ -15,7 +15,9 @@ complaint details when queried with the complaint ID.
 ![alt text](chatbot_graph.png)
 
 ## Demo Video
-![Demo](demo_comp.mp4)
+https://github.com/user-attachments/assets/629540db-5b7e-4c04-9631-c97cb656dbc3
+
+
 
 ## Features
 
